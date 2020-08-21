@@ -1,5 +1,6 @@
 package com.alibaba.nacos.controller;
 
+import com.alibaba.nacos.feign.TestFeign;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -22,6 +23,9 @@ public class TestController {
     @Autowired
     private LoadBalancerClient loadBalancerClient;
 
+    @Autowired
+    private TestFeign testFeign;
+
     @GetMapping("/test")
     public String test(@RequestParam String name) {
         // 通过spring cloud common中的负载均衡接口选取服务提供节点实现接口调用
@@ -30,5 +34,10 @@ public class TestController {
         RestTemplate template = new RestTemplate();
         String result = template.getForObject(url, String.class);
         return "Invoke:".concat(url).concat(",").concat("return:").concat(StringUtils.isNotBlank(result) ? result : "");
+    }
+
+    @GetMapping("/testFeign")
+    public String testFeign(@RequestParam String name) {
+        return "Return:" + testFeign.hello(name);
     }
 }

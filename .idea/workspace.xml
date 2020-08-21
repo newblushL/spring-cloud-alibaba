@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7dad3a0-f0fe-486b-bc96-e08435b0af6f" name="Default Changelist" comment="" />
+    <list default="true" id="a7dad3a0-f0fe-486b-bc96-e08435b0af6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-comm/src/main/java/com/alibaba/nacos/feign/TestFeign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba-nacos-discovery-client-comm/alibaba-nacos-discovery-client-comm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-comm/alibaba-nacos-discovery-client-comm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba-nacos-discovery-client-comm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-comm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba-nacos-discovery-client-comm/src/main/java/com/alibaba/TestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-comm/src/main/java/com/alibaba/TestApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba-nacos-discovery-client-comm/src/main/java/com/alibaba/nacos/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-comm/src/main/java/com/alibaba/nacos/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba-nacos-discovery-server/src/main/java/com/alibaba/TestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-server/src/main/java/com/alibaba/TestApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba-nacos-discovery-server/src/main/java/com/alibaba/nacos/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-server/src/main/java/com/alibaba/nacos/controller/TestController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +36,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -27,12 +49,18 @@
     </option>
   </component>
   <component name="ProjectId" id="1gOla9ERVWXW0kkXpcxkfEqkSt1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -56,6 +84,9 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="generated-requests#10" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="10" runType="Run single request">
+      <method v="2" />
     </configuration>
     <configuration name="TestApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="alibaba-nacos-discovery-client-comm" />
@@ -81,6 +112,7 @@
       <list>
         <item itemvalue="Spring Boot.TestApplication (1)" />
         <item itemvalue="Spring Boot.TestApplication" />
+        <item itemvalue="HTTP Request.generated-requests#10" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +130,7 @@
       <workItem from="1597993583956" duration="1192000" />
       <workItem from="1597994792461" duration="718000" />
       <workItem from="1597995518622" duration="742000" />
-      <workItem from="1597996270503" duration="1178000" />
+      <workItem from="1597996270503" duration="4125000" />
     </task>
     <servers />
   </component>
@@ -110,42 +142,82 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997203984" />
-    <state width="1877" height="370" key="GridCell.Tab.0.bottom" timestamp="1597997284401">
+    <state x="558" y="1" key="CommitChangelistDialog2" timestamp="1597997675841">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="370" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997284401" />
-    <state width="1877" height="370" key="GridCell.Tab.0.center" timestamp="1597997284401">
+    <state x="558" y="1" key="CommitChangelistDialog2/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997675841" />
+    <state width="431" height="646" key="DebuggerActiveHint" timestamp="1597998549539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="370" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997284401" />
-    <state width="1877" height="370" key="GridCell.Tab.0.left" timestamp="1597997284401">
+    <state width="431" height="646" key="DebuggerActiveHint/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597998549539" />
+    <state x="184" y="85" key="DiffContextDialog" timestamp="1597997675576">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="370" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997284401" />
-    <state width="1877" height="370" key="GridCell.Tab.0.right" timestamp="1597997284401">
+    <state x="184" y="85" key="DiffContextDialog/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997675576" />
+    <state x="799" y="420" width="321" height="274" key="Github.ShareDialog" timestamp="1597997554497">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="370" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997284401" />
-    <state width="1877" height="370" key="GridCell.Tab.1.bottom" timestamp="1597997284402">
+    <state x="799" y="420" width="321" height="274" key="Github.ShareDialog/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997554497" />
+    <state x="576" y="143" key="Github.UntrackedFilesDialog" timestamp="1597997586149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="370" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997284402" />
-    <state width="1877" height="370" key="GridCell.Tab.1.center" timestamp="1597997284401">
+    <state x="576" y="143" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997586149" />
+    <state width="1877" height="339" key="GridCell.Tab.0.bottom" timestamp="1598000357893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="370" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997284401" />
-    <state width="1877" height="370" key="GridCell.Tab.1.left" timestamp="1597997284401">
+    <state width="1877" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598000357893" />
+    <state width="1877" height="339" key="GridCell.Tab.0.center" timestamp="1598000357893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="370" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997284401" />
-    <state width="1877" height="370" key="GridCell.Tab.1.right" timestamp="1597997284402">
+    <state width="1877" height="339" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598000357893" />
+    <state width="1877" height="339" key="GridCell.Tab.0.left" timestamp="1598000357893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="370" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997284402" />
+    <state width="1877" height="339" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598000357893" />
+    <state width="1877" height="339" key="GridCell.Tab.0.right" timestamp="1598000357893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598000357893" />
+    <state width="1877" height="339" key="GridCell.Tab.1.bottom" timestamp="1598000357740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598000357740" />
+    <state width="1877" height="339" key="GridCell.Tab.1.center" timestamp="1598000357740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598000357740" />
+    <state width="1877" height="339" key="GridCell.Tab.1.left" timestamp="1598000357740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598000357740" />
+    <state width="1877" height="339" key="GridCell.Tab.1.right" timestamp="1598000357740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598000357740" />
+    <state width="1877" height="339" key="GridCell.Tab.2.bottom" timestamp="1598000357740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598000357740" />
+    <state width="1877" height="339" key="GridCell.Tab.2.center" timestamp="1598000357740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.2.center/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598000357740" />
+    <state width="1877" height="339" key="GridCell.Tab.2.left" timestamp="1598000357740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.2.left/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598000357740" />
+    <state width="1877" height="339" key="GridCell.Tab.2.right" timestamp="1598000357740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.2.right/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598000357740" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1597996327773">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597996327773" />
+    <state x="421" y="174" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597998119842">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="421" y="174" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597998119842" />
     <state x="493" y="94" key="new project wizard" timestamp="1597996479185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
