@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7dad3a0-f0fe-486b-bc96-e08435b0af6f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\java\repository" />
+        <option name="mavenHome" value="C:\Users\Administrator\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.6948.36\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="E:\java\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gOla9ERVWXW0kkXpcxkfEqkSt1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.TestApplication (1)">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="alibaba-nacos-discovery-client-comm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.TestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="alibaba-nacos-discovery-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.TestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.TestApplication (1)" />
+        <item itemvalue="Spring Boot.TestApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7dad3a0-f0fe-486b-bc96-e08435b0af6f" name="Default Changelist" comment="" />
+      <created>1597993582267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597993582267</updated>
+      <workItem from="1597993583956" duration="1192000" />
+      <workItem from="1597994792461" duration="718000" />
+      <workItem from="1597995518622" duration="742000" />
+      <workItem from="1597996270503" duration="1178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1597997203984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997203984" />
+    <state width="1877" height="370" key="GridCell.Tab.0.bottom" timestamp="1597997284401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="370" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997284401" />
+    <state width="1877" height="370" key="GridCell.Tab.0.center" timestamp="1597997284401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="370" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997284401" />
+    <state width="1877" height="370" key="GridCell.Tab.0.left" timestamp="1597997284401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="370" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997284401" />
+    <state width="1877" height="370" key="GridCell.Tab.0.right" timestamp="1597997284401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="370" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997284401" />
+    <state width="1877" height="370" key="GridCell.Tab.1.bottom" timestamp="1597997284402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="370" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997284402" />
+    <state width="1877" height="370" key="GridCell.Tab.1.center" timestamp="1597997284401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="370" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997284401" />
+    <state width="1877" height="370" key="GridCell.Tab.1.left" timestamp="1597997284401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="370" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997284401" />
+    <state width="1877" height="370" key="GridCell.Tab.1.right" timestamp="1597997284402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="370" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997284402" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1597996327773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597996327773" />
+    <state x="493" y="94" key="new project wizard" timestamp="1597996479185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="493" y="94" key="new project wizard/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597996479185" />
+    <state x="617" y="225" width="683" height="678" key="search.everywhere.popup" timestamp="1597996986660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="617" y="225" width="683" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597996986660" />
+  </component>
+</project>
