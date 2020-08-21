@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="alibaba-nacos-config-client" />
         <module name="alibaba-nacos-discovery-client-comm" />
         <module name="alibaba-nacos-discovery-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="alibaba-nacos-config-client" target="1.8" />
       <module name="alibaba-nacos-discovery-client-comm" target="1.8" />
       <module name="alibaba-nacos-discovery-server" target="1.8" />
       <module name="spring-cloud-alibaba" target="1.8" />
@@ -18,6 +20,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="alibaba-nacos-config-client" options="-parameters" />
       <module name="alibaba-nacos-discovery-client-comm" options="-parameters" />
       <module name="alibaba-nacos-discovery-server" options="-parameters" />
     </option>
