@@ -5,14 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7dad3a0-f0fe-486b-bc96-e08435b0af6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_alibaba_nacos_config_0_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_alibaba_nacos_config_0_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-config-client/alibaba-nacos-config-client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-config-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-config-client/src/main/java/com/alibaba/ConfigApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-config-client/src/main/java/com/alibaba/nacos/controller/ConfigController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-config-client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-config-client/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_alibaba_sentinel_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_alibaba_sentinel_datasource_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_annotation_aspectj_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_cluster_client_default_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_cluster_common_default_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_cluster_server_default_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_core_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_datasource_extension_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_parameter_flow_control_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_reactor_adapter_1_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_spring_webflux_adapter_1_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_transport_common_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_transport_simple_http_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_web_servlet_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_concurrentlinkedhashmap_concurrentlinkedhashmap_lru_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibaba-sentinel-example/alibaba-sentinel-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibaba-sentinel-example/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibaba-sentinel-example/src/main/java/com/alibaba/sentinel/SentinelApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibaba-sentinel-example/src/main/java/com/alibaba/sentinel/config/SentinelConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibaba-sentinel-example/src/main/java/com/alibaba/sentinel/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibaba-sentinel-example/src/main/java/com/alibaba/sentinel/handle/UrlBlockHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibaba-sentinel-example/src/main/java/com/alibaba/sentinel/util/ExceptionUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibaba-sentinel-example/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newblush-member/newblush-member.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newblush-member/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newblush-member/src/main/java/com/newblush/MemberApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newblush-member/src/main/java/com/newblush/service/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newblush-member/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -50,6 +73,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -58,40 +82,98 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yuncai-parent" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1484375" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="build.tools" />
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigApp">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082/test" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="xiaoming" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8081/test" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="xiaoming" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SentinelApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generated-requests#10" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="10" runType="Run single request">
+    <configuration name="generated-requests#12" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="12" runType="Run single request">
       <method v="2" />
     </configuration>
-    <configuration name="ConfigApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="alibaba-nacos-config-client" />
+    <configuration name="MemberApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="newblush-member" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alibaba.*" />
+          <option name="PATTERN" value="com.newblush.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ConfigApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.newblush.MemberApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SentinelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="alibaba-sentinel-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.sentinel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.sentinel.SentinelApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,19 +191,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="client8085" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <module name="alibaba-nacos-discovery-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.TestApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8085" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ConfigApp" />
+        <item itemvalue="Spring Boot.SentinelApplication" />
+        <item itemvalue="Spring Boot.MemberApplication" />
+        <item itemvalue="HTTP Request.generated-requests#12" />
+        <item itemvalue="Spring Boot.client8085" />
         <item itemvalue="Spring Boot.TestApplication (1)" />
-        <item itemvalue="Spring Boot.TestApplication" />
-        <item itemvalue="HTTP Request.generated-requests#10" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +224,8 @@
       <workItem from="1597993583956" duration="1192000" />
       <workItem from="1597994792461" duration="718000" />
       <workItem from="1597995518622" duration="742000" />
-      <workItem from="1597996270503" duration="5855000" />
+      <workItem from="1597996270503" duration="6008000" />
+      <workItem from="1598057079172" duration="11252000" />
     </task>
     <task id="LOCAL-00001" summary="测试feign调用">
       <created>1598000546564</created>
@@ -148,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598000546564</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="使用 nacos 作为配置中心">
+      <created>1598002170704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598002170704</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,25 +249,46 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试feign调用" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试feign调用" />
+    <MESSAGE value="使用 nacos 作为配置中心" />
+    <option name="LAST_COMMIT_MESSAGE" value="使用 nacos 作为配置中心" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1598001676161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598001676161" />
-    <state x="558" y="1" key="CommitChangelistDialog2" timestamp="1598000544474">
+    <state x="414" y="175" width="1186" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598060671592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="1" key="CommitChangelistDialog2/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598000544474" />
+    <state x="414" y="175" width="1186" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598060671592" />
+    <state x="678" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598081772206">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598081772206" />
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1598083322879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598083322879" />
+    <state x="641" y="328" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1598081798371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="641" y="328" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598081798371" />
+    <state x="558" y="1" key="CommitChangelistDialog2" timestamp="1598002168552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="1" key="CommitChangelistDialog2/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598002168552" />
     <state width="431" height="646" key="DebuggerActiveHint" timestamp="1597998549539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="431" height="646" key="DebuggerActiveHint/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597998549539" />
-    <state x="184" y="85" key="DiffContextDialog" timestamp="1597997675576">
+    <state x="184" y="85" width="1536" height="860" key="DiffContextDialog" timestamp="1598061338935">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="85" key="DiffContextDialog/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997675576" />
+    <state x="184" y="85" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598061338935" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1598060688608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598060688608" />
     <state x="799" y="420" width="321" height="274" key="Github.ShareDialog" timestamp="1597997554497">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -183,70 +297,70 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="576" y="143" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597997586149" />
-    <state width="1877" height="368" key="GridCell.Tab.0.bottom" timestamp="1598002082525">
+    <state width="1440" height="390" key="GridCell.Tab.0.bottom" timestamp="1598083889214">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598002082525" />
-    <state width="1877" height="368" key="GridCell.Tab.0.center" timestamp="1598002082525">
+    <state width="1440" height="390" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598083889214" />
+    <state width="1440" height="390" key="GridCell.Tab.0.center" timestamp="1598083889214">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598002082525" />
-    <state width="1877" height="368" key="GridCell.Tab.0.left" timestamp="1598002082524">
+    <state width="1440" height="390" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598083889214" />
+    <state width="1440" height="390" key="GridCell.Tab.0.left" timestamp="1598083889214">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598002082524" />
-    <state width="1877" height="368" key="GridCell.Tab.0.right" timestamp="1598002082525">
+    <state width="1440" height="390" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598083889214" />
+    <state width="1440" height="390" key="GridCell.Tab.0.right" timestamp="1598083889214">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598002082525" />
-    <state width="1877" height="368" key="GridCell.Tab.1.bottom" timestamp="1598002082348">
+    <state width="1440" height="390" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598083889214" />
+    <state width="1440" height="390" key="GridCell.Tab.1.bottom" timestamp="1598083889025">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598002082348" />
-    <state width="1877" height="368" key="GridCell.Tab.1.center" timestamp="1598002082348">
+    <state width="1440" height="390" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598083889025" />
+    <state width="1440" height="390" key="GridCell.Tab.1.center" timestamp="1598083889024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598002082348" />
-    <state width="1877" height="368" key="GridCell.Tab.1.left" timestamp="1598002082347">
+    <state width="1440" height="390" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598083889024" />
+    <state width="1440" height="390" key="GridCell.Tab.1.left" timestamp="1598083889024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598002082347" />
-    <state width="1877" height="368" key="GridCell.Tab.1.right" timestamp="1598002082348">
+    <state width="1440" height="390" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598083889024" />
+    <state width="1440" height="390" key="GridCell.Tab.1.right" timestamp="1598083889024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598002082348" />
-    <state width="1877" height="368" key="GridCell.Tab.2.bottom" timestamp="1598002082348">
+    <state width="1440" height="390" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598083889024" />
+    <state width="1440" height="390" key="GridCell.Tab.2.bottom" timestamp="1598083889025">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598002082348" />
-    <state width="1877" height="368" key="GridCell.Tab.2.center" timestamp="1598002082348">
+    <state width="1440" height="390" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598083889025" />
+    <state width="1440" height="390" key="GridCell.Tab.2.center" timestamp="1598083889025">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.2.center/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598002082348" />
-    <state width="1877" height="368" key="GridCell.Tab.2.left" timestamp="1598002082348">
+    <state width="1440" height="390" key="GridCell.Tab.2.center/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598083889025" />
+    <state width="1440" height="390" key="GridCell.Tab.2.left" timestamp="1598083889025">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.2.left/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598002082348" />
-    <state width="1877" height="368" key="GridCell.Tab.2.right" timestamp="1598002082348">
+    <state width="1440" height="390" key="GridCell.Tab.2.left/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598083889025" />
+    <state width="1440" height="390" key="GridCell.Tab.2.right" timestamp="1598083889025">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.2.right/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598002082348" />
+    <state width="1440" height="390" key="GridCell.Tab.2.right/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598083889025" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1597996327773">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597996327773" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1598000547904">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1598002172036">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598000547904" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598002172036" />
     <state x="421" y="174" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597998119842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="421" y="174" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1597998119842" />
-    <state x="493" y="94" key="new project wizard" timestamp="1598000890820">
+    <state x="493" y="94" key="new project wizard" timestamp="1598081690261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="493" y="94" key="new project wizard/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598000890820" />
+    <state x="493" y="94" key="new project wizard/0.0.1920.1040/-1920.98.1920.1040@0.0.1920.1040" timestamp="1598081690261" />
     <state x="617" y="225" width="683" height="678" key="search.everywhere.popup" timestamp="1597996986660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

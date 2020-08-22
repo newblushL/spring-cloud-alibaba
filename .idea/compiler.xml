@@ -7,14 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="alibaba-nacos-config-client" />
+        <module name="alibaba-sentinel-example" />
         <module name="alibaba-nacos-discovery-client-comm" />
         <module name="alibaba-nacos-discovery-server" />
+        <module name="newblush-member" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="alibaba-nacos-config-client" target="1.8" />
       <module name="alibaba-nacos-discovery-client-comm" target="1.8" />
       <module name="alibaba-nacos-discovery-server" target="1.8" />
+      <module name="alibaba-sentinel-example" target="1.8" />
+      <module name="newblush-member" target="1.8" />
       <module name="spring-cloud-alibaba" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -23,6 +27,8 @@
       <module name="alibaba-nacos-config-client" options="-parameters" />
       <module name="alibaba-nacos-discovery-client-comm" options="-parameters" />
       <module name="alibaba-nacos-discovery-server" options="-parameters" />
+      <module name="alibaba-sentinel-example" options="-parameters" />
+      <module name="newblush-member" options="-parameters" />
     </option>
   </component>
 </project>

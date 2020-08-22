@@ -12,6 +12,8 @@
         <module>alibaba-nacos-discovery-server</module>
         <module>alibaba-nacos-discovery-client-comm</module>
         <module>alibaba-nacos-config-client</module>
+        <module>newblush-member</module>
+        <module>alibaba-sentinel-example</module>
     </modules>
 
     <parent>

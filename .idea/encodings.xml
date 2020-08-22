@@ -4,5 +4,7 @@
     <file url="file://$PROJECT_DIR$/alibaba-nacos-config-client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/alibaba-nacos-discovery-client-comm/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/alibaba-nacos-discovery-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alibaba-sentinel-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/newblush-member/src/main/java" charset="UTF-8" />
   </component>
 </project>
